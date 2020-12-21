@@ -1,4 +1,4 @@
-package com.jh.test;
+package com.jh.flink;
 
 /**
  * @program: test
